@@ -14,3 +14,9 @@ Belajar kelas pemrograman web dasar (Progress 50%)
 * Belajar dasar HTML, CSS dan JS
 * Berlatih dari contoh-contoh
 * mencoba membuat web versi sendiri 
+
+**13 Agustus 2022**  
+lanjut belajar Git sampai selesai hari ini
+* belajar git sampai tuntas
+* print sertifikati nya di linkedin lumayan buat tambah2
+* lanjut ke aws atau coba review lagi soal html css dan js
