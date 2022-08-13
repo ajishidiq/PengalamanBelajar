@@ -20,3 +20,13 @@ lanjut belajar Git sampai selesai hari ini
 * belajar git sampai tuntas
 * print sertifikati nya di linkedin lumayan buat tambah2
 * lanjut ke aws atau coba review lagi soal html css dan js
+
+**15 Agustus 2022**  
+Pelajari SDWAN Silver Peak untuk Ambil
+* SPSP
+* SPSX
+
+**17 Agustus 2022**  
+upacara kemerdekaan dengan kegiatan 
+* bobo santai
+* belajar sambil ngasuh
